@@ -17,6 +17,6 @@ public class HelloWorld {
     public HelloWorldBean HelloWorldBean()
     {
 
-        return new HelloWorldBean("Hello World");
+        return new HelloWorldBean("Hello World again");
     }
 }
